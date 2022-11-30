@@ -1,0 +1,3 @@
+Tambahkan ini pada file .gitignore agar data yg diupload lebih sedikit
+node_modules
+notes-api-webserver.pem 
